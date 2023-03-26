@@ -2,11 +2,11 @@ for Y in {2023..2023}
 do
   mkdir $Y
   cd $Y
-  for M in {1..1}
+  for M in {2..2}
   do
     mkdir $M
     cd $M
-    for D in {10..31}
+    for D in {1..28}
     do
       dayofdate=$(date -d "$Y-$M-$D" '+%a');
 
