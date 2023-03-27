@@ -6,7 +6,7 @@ do
   do
     mkdir $M
     cd $M
-    for D in {1..28}
+    for D in {1..27}
     do
       dayofdate=$(date -d "$Y-$M-$D" '+%a');
 
