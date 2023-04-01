@@ -9,7 +9,7 @@ cd react.git
 
   git filter-branch --env-filter '
 
-  OLD_EMAIL="hw.chase.17@gmail.com"
+  OLD_EMAIL="jorgeruvalcabav@gmail.com"
   CORRECT_NAME="Nicholas1224"
   CORRECT_EMAIL="nicholaschan082@gmail.com"
 
