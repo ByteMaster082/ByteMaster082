@@ -65,10 +65,10 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/Nicholas1224">
-    <img width=450 height=170 align="center" alt="Nicholas1224" src="https://github-readme-stats.vercel.app/api?username=Nicholas1224&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="Nicholas1224" src="https://github-readme-stats.vercel.app/api?username=roychan0317&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/Nicholas1224">
-    <img align="center" alt="Nicholas1224" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas1224&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="Nicholas1224" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roychan0317&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
